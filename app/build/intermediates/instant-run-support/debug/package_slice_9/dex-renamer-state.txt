@@ -1,0 +1,4 @@
+#Tue Apr 17 19:10:28 MDT 2018
+base.0=C\:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

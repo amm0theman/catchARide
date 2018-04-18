@@ -1,0 +1,12 @@
+<resources>
+    <!--For main activity-->
+    <string name="app_name">Catch-A-Ride</string>
+    <string name="mainButton1">Provide-A-Ride</string>
+    <string name="mainButton2">Catch-A-Ride</string>
+
+    <!--For catch a ride activity-->
+
+
+    <!--For provide a ride activity-->
+
+</resources>
