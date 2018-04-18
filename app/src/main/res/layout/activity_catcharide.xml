@@ -6,10 +6,12 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="CATCH THAT SHIIII"
-        tools:layout_editor_absoluteX="163dp"
-        tools:layout_editor_absoluteY="245dp" />
+        android:contentDescription="enter your name "
+        android:text="Enter your name:"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="68dp"
+        tools:text="Enter your name:" />
 </android.support.constraint.ConstraintLayout>

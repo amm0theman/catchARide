@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Apr 17 19:15:45 MDT 2018
+#Tue Apr 17 20:21:46 MDT 2018
 2.base=C\:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
 5.set=DEX
 0.path=classes.dex

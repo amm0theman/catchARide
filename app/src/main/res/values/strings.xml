@@ -9,4 +9,6 @@
 
     <!--For provide a ride activity-->
 
+    <!--For menu universal across activities-->
+    <string name="menu_one">Exit</string>
 </resources>
