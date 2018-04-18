@@ -176,12 +176,12 @@
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
@@ -300,12 +300,12 @@
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -328,24 +328,24 @@
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\1c2fda771752c118bbc16db9ed9b3a47\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a1d16052c2b0aa87ea019801fbf7a9a\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a1d16052c2b0aa87ea019801fbf7a9a\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a1d16052c2b0aa87ea019801fbf7a9a\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -412,12 +412,12 @@
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
@@ -616,24 +616,24 @@
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a1d16052c2b0aa87ea019801fbf7a9a\\res\\layout-v21\\notification_action.xml"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3a1d16052c2b0aa87ea019801fbf7a9a\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
@@ -648,12 +648,12 @@
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -712,12 +712,12 @@
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\ammon.riley\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91bea5aeb87145ff9145fcbb5f80f1e6\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\ammon.riley\\AndroidStudioProjects\\catchARide\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
